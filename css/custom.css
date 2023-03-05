@@ -1,0 +1,38 @@
+.col-text{
+    color:white;
+}
+h3{
+    color:#fff;
+}
+h2{
+    color:#fff;
+}
+h4{
+    color:#fff;
+}
+#footer1{
+    color:#fff;
+}
+.container img{
+
+    
+    -moz-transition:-moz-transition 0.5s ease-in;
+    -webkit-transition:-webkit-transform 0.5s ease-in;
+    -o-transition:-o-transfrom 0.5s ease-in;
+}
+.container img:hover{
+    width:200px;
+    height:200px;
+    -moz-transform: scale(1.5);
+	-webkit-transform: scale(1.5);
+	-o-transform: scale(1.5);
+}
+i{
+    color:#fff;
+    width:1.5rem;
+    height:0.5rem;
+    padding-left:3rem;
+}
+#fontAwe{
+    margin-left:-10%;
+}
