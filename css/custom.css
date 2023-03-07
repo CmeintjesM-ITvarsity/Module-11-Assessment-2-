@@ -13,14 +13,14 @@ h4{
 #footer1{
     color:#fff;
 }
-.container img{
+#galleryimg{
 
     
     -moz-transition:-moz-transition 0.5s ease-in;
     -webkit-transition:-webkit-transform 0.5s ease-in;
     -o-transition:-o-transfrom 0.5s ease-in;
 }
-.container img:hover{
+#galleryimg:hover{
     width:200px;
     height:200px;
     -moz-transform: scale(1.5);
